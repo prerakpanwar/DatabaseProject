@@ -3,6 +3,7 @@
 I have uploaded the SQL files, report, images, code, csv files.
 
 Report.pdf is the final report.
+
 GeneratingRecords.py is used to create 500 records.
 
 Table of Contents 
