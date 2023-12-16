@@ -2,6 +2,8 @@
 
 I have uploaded the SQL files, report, images, code, csv files.
 
+GeneratingRecords.py is used to create 500 records.
+
 Table of Contents 
 1. Executive Summary 
 2. Introduction 
