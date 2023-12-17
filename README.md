@@ -3,13 +3,14 @@
 I have uploaded the SQL files, report, images, code, csv files.
 
 Database Final Project- Group 15 Eco Friendly Lifestyle Tracker.zip is the folder containing dataset,report etc.
-But I will be uploading dataset, sql query files, screenshot in separate folders. 
 
 Report.pdf is the final report.
 
 GeneratingRecords.py is used to create 500 records.
 
 Dataset.xlsx contains all the records of the 4 tables.
+
+.sql file have SQL queries used for the project.
 
 Table of Contents 
 1. Executive Summary 
