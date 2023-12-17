@@ -9,6 +9,8 @@ Report.pdf is the final report.
 
 GeneratingRecords.py is used to create 500 records.
 
+Dataset.xlsx contains all the records of the 4 tables.
+
 Table of Contents 
 1. Executive Summary 
 2. Introduction 
